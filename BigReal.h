@@ -1,12 +1,5 @@
-#ifndef A2_TASK2_S20_20220082_20220261_20220258_BIGREAL_H
-#define A2_TASK2_S20_20220082_20220261_20220258_BIGREAL_H
-// File: BigReal.h
-// Purpose: Create A new Big Real Data type in cpp
-// Authors: Lila Waleed - Basmala Ahmed - Lojayn Khaled
-// Section: S20
-// Ids: 20220261- 20220082-20220258
-// TA: mohammed Talat
-// Date: 4/11/2023
+#ifndef A2_TASK2
+#define A2_TASK2
 
 #include <iostream>
 #include <fstream>
@@ -54,4 +47,4 @@ public:
 
 };
 
-#endif //A2_TASK2_S20_20220082_20220261_20220258_BIGREAL_H
+#endif //A2_TASK2
